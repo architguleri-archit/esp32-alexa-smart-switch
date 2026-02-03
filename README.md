@@ -37,4 +37,5 @@ This project is licensed under the MIT License.
 
 ---
 
-🎥 YouTube Tutorial: *(https://youtu.be/eHmvbZXSIWw)*
+🎥 **YouTube Tutorial:** https://youtu.be/eHmvbZXSIWw
+
